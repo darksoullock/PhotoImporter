@@ -1,0 +1,8 @@
+c:\users\vasiliy\documents\visual studio 2015\Projects\PhotoImporter\PhotoImporter\bin\Debug\PhotoImporter.exe.config
+C:\Users\Vasiliy\documents\visual studio 2015\Projects\PhotoImporter\PhotoImporter\bin\Debug\PhotoImporter.exe
+C:\Users\Vasiliy\documents\visual studio 2015\Projects\PhotoImporter\PhotoImporter\bin\Debug\PhotoImporter.pdb
+C:\Users\Vasiliy\documents\visual studio 2015\Projects\PhotoImporter\PhotoImporter\obj\Debug\PhotoImporter.csprojResolveAssemblyReference.cache
+C:\Users\Vasiliy\documents\visual studio 2015\Projects\PhotoImporter\PhotoImporter\obj\Debug\PhotoImporter.exe
+C:\Users\Vasiliy\documents\visual studio 2015\Projects\PhotoImporter\PhotoImporter\obj\Debug\PhotoImporter.pdb
+C:\Users\Vasiliy\documents\visual studio 2015\Projects\PhotoImporter\PhotoImporter\bin\Debug\MediaDevices.dll
+C:\Users\Vasiliy\documents\visual studio 2015\Projects\PhotoImporter\PhotoImporter\bin\Debug\MediaDevices.xml
